@@ -1,7 +1,7 @@
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
-
+#집에가서 휴식을취하면서 잠을취하고 휴식을 취하고 잠을취하고휴식을취하고 잠을자고 정신이 나가고 잠을자고 귀찮고 수업은 아무생각이 안들고 머리가 아파오고 정신은 나갔고 집에가고싶어면서 아무생각이 없다가도 생각이 없다가도 생각이 있는듯 잠은 안오고 생각은 많아지는 듯 하면서도 잠이 안오고 집에 가고 싶어져서 생각은 줄어들고 아 모르겠다
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]

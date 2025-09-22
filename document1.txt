@@ -14,7 +14,7 @@ def partition(l, r, nums):#i wanna go home
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
- 
+#i cant go home
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
